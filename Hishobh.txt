@@ -45,5 +45,5 @@ Balence remaining : Total Recieved - Total Spent
                   : 23,805
                   
                   
-i am going to make some changes in the git remote file and that i want tp reflect on my git local repo so i am going to use the git pull commnad.
+I am going to make some changes in the git remote file and that i want to reflect on my git local repo so I am going to use the git pull commnad.
 thank you.
